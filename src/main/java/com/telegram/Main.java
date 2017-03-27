@@ -40,7 +40,7 @@ public class Main {
     public static void main(String[] args) throws Exception{
     	
     	pruebaGooglePlaces();
-    	pruebaWikiMedia();
+    	//pruebaWikiMedia();
     	System.exit(0);
     	
         BotLogger.setLevel(Level.ALL);
@@ -94,7 +94,7 @@ public class Main {
     }
     public static void pruebaGooglePlaces() throws Exception{
     	
-    	String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&types=food&name=cruise&key=" + BotConfig.GOOGLE_API_KEY;
+    	String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&types=point_of_interest&key=" + BotConfig.GOOGLE_API_KEY;
     	HttpURLConnection con = (HttpURLConnection) new URL(url).openConnection();
 		con.setRequestMethod("GET");
 		BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
