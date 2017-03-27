@@ -15,7 +15,7 @@ import com.telegram.entities.WikiMedia.Page;
 import org.telegram.updateshandlers.CommandsHandler;
 import org.telegram.updateshandlers.DirectionsHandlers;
 import org.telegram.updateshandlers.FilesHandlers;
-import org.telegram.updateshandlers.RaeHandlers;
+import org.telegram.updateshandlers.RaeHandlers;sxscdcsdvsdv
 import org.telegram.updateshandlers.TransifexHandlers;
 import org.telegram.updateshandlers.WeatherHandlers;
 import org.telegram.updateshandlers.WebHookExampleHandlers;*/
