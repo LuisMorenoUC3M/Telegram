@@ -9,7 +9,9 @@ package com.telegram;
 public class BotConfig {
     public static final String REPITEME_TOKEN = "281417678:AAE5a0HRwoZJoGYaW0LeY1LJor6ZJHSxxnI";
     public static final String REPITEME_USER = "repitemebot";
+    public static final String GOOGLE_API_KEY = "AIzaSyCLdMyfRVcnHrtZqB2oCHdYlqEs3LgamvQ";
 	
+    /**
 	public static final String WEATHER_TOKEN = "<token>";
     public static final String WEATHER_USER = "weatherbot";
 
@@ -33,4 +35,5 @@ public class BotConfig {
 
     public static final String COMMANDS_TOKEN = "<token>";
     public static final String COMMANDS_USER = "MyCommandsBot";
+    **/
 }
