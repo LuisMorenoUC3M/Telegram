@@ -9,24 +9,18 @@ import org.telegram.telegrambots.logging.BotsFileHandler;
 import com.google.gson.Gson;
 import com.telegram.entities.GooglePlaces;
 import com.telegram.entities.GooglePlaces.Result;
-import com.telegram.entities.WikiMedia;
-import com.telegram.entities.WikiMedia.Page;
-/*import org.telegram.updateshandlers.ChannelHandlers;
-import org.telegram.updateshandlers.CommandsHandler;
-import org.telegram.updateshandlers.DirectionsHandlers;
-import org.telegram.updateshandlers.FilesHandlers;
-import org.telegram.updateshandlers.RaeHandlers;sxscdcsdvsdv
-import org.telegram.updateshandlers.TransifexHandlers;
-import org.telegram.updateshandlers.WeatherHandlers;
-import org.telegram.updateshandlers.WebHookExampleHandlers;*/
+import com.telegram.entities.wikipedia.Api;
+import com.telegram.entities.wikipedia.Category;
 import com.telegram.updateshandlers.RepitemeHandlers;
-//sdsdsdxcxc
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.StringReader;
 import java.net.*;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Level;
+
+import javax.xml.bind.JAXB;
 
 /**
  * @author Ruben Bermudez
@@ -57,13 +51,6 @@ public class MainGooglePlaces {
             try {
                 // Register long polling bots. They work regardless type of TelegramBotsApi we are creating
             	telegramBotsApi.registerBot(new RepitemeHandlers());
-            	/*telegramBotsApi.registerBot(new ChannelHandlers());
-                telegramBotsApi.registerBot(new DirectionsHandlers());
-                telegramBotsApi.registerBot(new RaeHandlers());
-                telegramBotsApi.registerBot(new WeatherHandlers());
-                telegramBotsApi.registerBot(new TransifexHandlers());
-                telegramBotsApi.registerBot(new FilesHandlers());
-                telegramBotsApi.registerBot(new CommandsHandler());*/
             } catch (TelegramApiException e) {
                 BotLogger.error(LOGTAG, e);
             }
@@ -73,23 +60,36 @@ public class MainGooglePlaces {
     }
     
     public static void pruebaWikiMedia() throws Exception{
-    	String url = "https://en.wikipedia.org/w/api.php?action=query&prop=categories&generator=geosearch&ggsradius=500&ggscoord=40.41694|-3.70361";
+    	
+    	//URL de prueba para la direccion de SOL
+    	String url = "https://en.wikipedia.org/w/api.php?action=query&prop=categories&generator=geosearch&ggsradius=500&ggscoord=40.41694|-3.70361&format=xml";
+    	
+    	//Abrimos HTTP GET
     	HttpURLConnection con = (HttpURLConnection) new URL(url).openConnection();
 		con.setRequestMethod("GET");
+		
+		//XML porque en JSON es mas dificil de parsear en este caso
+		con.setRequestProperty("Accept", "application/xml");
 		BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
 		String inputLine;
 		StringBuffer response = new StringBuffer();
-
 		while ((inputLine = in.readLine()) != null) {
 			response.append(inputLine);
 		}
 		in.close();
 		
-		Gson gson = new Gson();
-		WikiMedia json = gson.fromJson(response.toString(), WikiMedia.class);
+		//Con JAXB pasamos el XML a una clase Java
+		Api wiki = JAXB.unmarshal(new StringReader(response.toString()), Api.class);
 		
-		for(Page page : json.getQuery().getPages()){
-			System.out.println(page.toString() + "\n");
+		//Printamos titulos de las paginas y las categorias a las que pertenece
+		for(com.telegram.entities.wikipedia.Page page: wiki.getQuery().getPages().getPages()){
+			System.out.println(page.getTitle());
+			
+			try{
+				for(Category cat : page.getCategories().getCl()){
+					System.out.println(cat.getTitle());
+				}
+			}catch(NullPointerException e){}
 		}
     }
     public static void pruebaGooglePlaces() throws Exception{
