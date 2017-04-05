@@ -34,8 +34,11 @@ public class MainGooglePlaces {
     public static void main(String[] args) throws Exception{
     	
     	pruebaGooglePlaces();
+    	
+    	
     	pruebaWikiMedia();
     	System.exit(0);
+    	//System.out.println("AQUIIIIII");
     	
         BotLogger.setLevel(Level.ALL);
         BotLogger.registerLogger(new ConsoleHandler());
