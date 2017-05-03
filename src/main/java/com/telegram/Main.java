@@ -38,7 +38,7 @@ public class Main {
         try {
             ApiContextInitializer.init();
             TelegramBotsApi telegramBotsApi = createTelegramBotsApi();
-            try {
+            try {  
             	telegramBotsApi.registerBot(new RepitemeHandlers());
 
             } catch (TelegramApiException e) {
