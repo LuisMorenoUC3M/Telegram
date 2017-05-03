@@ -1,5 +1,6 @@
 package com.telegram;
 
+import java.util.*;
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.TelegramBotsApi;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
@@ -34,9 +35,9 @@ public class MainGooglePlaces {
     public static void main(String[] args) throws Exception{
     	
     	pruebaGooglePlaces();
+    	System.out.println("FIIIINNNNNNN");
     	
-    	
-    	pruebaWikiMedia();
+    	//pruebaWikiMedia();
     	System.exit(0);
     	//System.out.println("AQUIIIIII");
     	
@@ -62,59 +63,60 @@ public class MainGooglePlaces {
         }
     }
     
-    public static void pruebaWikiMedia() throws Exception{
-    	
-    	//URL de prueba para la direccion de SOL
-    	String url = "https://en.wikipedia.org/w/api.php?action=query&prop=categories&generator=geosearch&ggsradius=500&ggscoord=40.41694|-3.70361&format=xml";
-    	
-    	//Abrimos HTTP GET
-    	HttpURLConnection con = (HttpURLConnection) new URL(url).openConnection();
-		con.setRequestMethod("GET");
-		
-		//XML porque en JSON es mas dificil de parsear en este caso
-		con.setRequestProperty("Accept", "application/xml");
-		BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
-		String inputLine;
-		StringBuffer response = new StringBuffer();
-		while ((inputLine = in.readLine()) != null) {
-			response.append(inputLine);
-		}
-		in.close();
-		
-		//Con JAXB pasamos el XML a una clase Java
-		Api wiki = JAXB.unmarshal(new StringReader(response.toString()), Api.class);
-		
-		//Printamos titulos de las paginas y las categorias a las que pertenece
-		for(com.telegram.entities.wikipedia.Page page: wiki.getQuery().getPages().getPages()){
-			System.out.println(page.getTitle());
-			
-			try{
-				for(Category cat : page.getCategories().getCl()){
-					System.out.println(cat.getTitle());
-				}
-			}catch(NullPointerException e){}
-		}
-    }
+    
     public static void pruebaGooglePlaces() throws Exception{
     	
-    	String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&types=food&name=cruise&key=" + BotConfig.GOOGLE_API_KEY;
-    	HttpURLConnection con = (HttpURLConnection) new URL(url).openConnection();
-		con.setRequestMethod("GET");
-		BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
-		String inputLine;
-		StringBuffer response = new StringBuffer();
-
-		while ((inputLine = in.readLine()) != null) {
-			response.append(inputLine);
-		}
-		in.close();
+    	ArrayList<String> keywords=new ArrayList<String>();
+    	keywords.add("lugarintereshistorico");
+    	keywords.add("statue");
+    	keywords.add("squares");
+    	keywords.add("iglesia");
+    	keywords.add("museo");
+    	keywords.add("teatro");
+    	keywords.add("mosque");
+    	keywords.add("univeristy");
+          
+    	Iterator<String> itr = keywords.iterator();
+    	HashMap<String,Gson> sitios=new HashMap<String,Gson>();
+        while (itr.hasNext()) 
+        {
+          
+    	/*
+    	 * tipos
+    	 * art gallery
+    	 * church
+    	 * mosque+park
+    	 * museum
+    	 * university*/
+    	
+		    	String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=40.416944,-3.703611&"+
+		    	"radius=200&keyword="+itr.next()+
+		    	"&key=" + BotConfig.GOOGLE_API_KEY;
+		    	HttpURLConnection con = (HttpURLConnection) new URL(url).openConnection();
+				con.setRequestMethod("GET");
+				BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+				String inputLine;
+				StringBuffer response = new StringBuffer();
 		
-		Gson gson = new Gson();
+				while ((inputLine = in.readLine()) != null) {
+					response.append(inputLine);
+				}
+				in.close();
+				Gson gson = new Gson();
+				
+				GooglePlaces json = gson.fromJson(response.toString(), GooglePlaces.class);
+				
+				for(Result res : json.getResults()){
+					System.out.println(res.toString() + "\n");
+				}
+				
+        }
+		/*Gson gson = new Gson();
 		GooglePlaces json = gson.fromJson(response.toString(), GooglePlaces.class);
 		
 		for(Result res : json.getResults()){
 			System.out.println(res.toString() + "\n");
-		}
+		}*/
     }
     
     private static TelegramBotsApi createTelegramBotsApi() throws TelegramApiException {
