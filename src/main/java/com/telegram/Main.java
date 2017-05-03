@@ -1,3 +1,12 @@
+/*
+ * 
+ * Una vez al usuario se le dan los diferentes lugares, eleige uno y se le dan las siguientes opciones
+ * 1 Hacer una preguntasobre el lugar, la cual se pasa a SPAQL y se pregunta a DbPEdia, esta pregunta no se guarda
+ * 2 -Guardar una pregunta sobre el lugar, el usuario crea una pregunta sobre el lugar da tres opciones, la cual una de ellas 
+ * es la correcta, esta pregunta se guarda en la Base de datos MySQL
+ *  3 Comprobar si hay preguntas guardadas sobre el lugar y darselas al usario en formato de quiz.*/
+
+
 package com.telegram;
 
 import org.telegram.telegrambots.ApiContextInitializer;
@@ -11,12 +20,8 @@ import java.io.IOException;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Level;
 
-/**
- * @author Ruben Bermudez
- * @version 1.0
- * @brief Main class to create all bots
- * @date 20 of June of 2015
- */
+
+
 public class Main {
     private static final String LOGTAG = "MAIN";
 
