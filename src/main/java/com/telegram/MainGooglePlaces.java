@@ -35,11 +35,7 @@ public class MainGooglePlaces {
     public static void main(String[] args) throws Exception{
     	
     	pruebaGooglePlaces();
-    	System.out.println("FIIIINNNNNNN");
     	
-    	//pruebaWikiMedia();
-    	System.exit(0);
-    	//System.out.println("AQUIIIIII");
     	
         BotLogger.setLevel(Level.ALL);
         BotLogger.registerLogger(new ConsoleHandler());
@@ -81,14 +77,7 @@ public class MainGooglePlaces {
         while (itr.hasNext()) 
         {
           
-    	/*
-    	 * tipos
-    	 * art gallery
-    	 * church
-    	 * mosque+park
-    	 * museum
-    	 * university*/
-    	
+    
 		    	String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=40.416944,-3.703611&"+
 		    	"radius=200&keyword="+itr.next()+
 		    	"&key=" + BotConfig.GOOGLE_API_KEY;

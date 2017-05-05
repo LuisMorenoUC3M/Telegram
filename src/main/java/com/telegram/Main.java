@@ -14,6 +14,7 @@ import org.telegram.telegrambots.TelegramBotsApi;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
 import org.telegram.telegrambots.logging.BotLogger;
 import org.telegram.telegrambots.logging.BotsFileHandler;
+import com.telegram.updateshandlers.botHandler;
 import com.telegram.updateshandlers.RepitemeHandlers;
 
 import java.io.IOException;
@@ -39,7 +40,8 @@ public class Main {
             ApiContextInitializer.init();
             TelegramBotsApi telegramBotsApi = createTelegramBotsApi();
             try {  
-            	telegramBotsApi.registerBot(new RepitemeHandlers());
+            	telegramBotsApi.registerBot(new botHandler());
+            	//telegramBotsApi.registerBot(new RepitemeHandlers());
 
             } catch (TelegramApiException e) {
                 BotLogger.error(LOGTAG, e);

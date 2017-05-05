@@ -243,3 +243,413 @@
 [5_4_2017_18:24:57] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
 	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
 	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[3_5_2017_12:59:26] {INFO} MAIN - intializing...
+[3_5_2017_18:28:7] {INFO} MAIN - intializing...
+[4_5_2017_16:44:33] {INFO} MAIN - intializing...
+[4_5_2017_16:44:37] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:37] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:37] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:37] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:39] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:40] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:40] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:40] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:40] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:40] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:40] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:40] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:40] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:41] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:42] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:42] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:42] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:42] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:42] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:44:42] {SEVERE} BOTSESSION - org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error getting updates: [409] Conflict: terminated by other long poll or webhook
+	at org.telegram.telegrambots.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:96)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:177)
+[4_5_2017_16:47:17] {INFO} MAIN - intializing...
+[4_5_2017_16:50:37] {INFO} MAIN - intializing...
+[4_5_2017_16:53:38] {INFO} MAIN - intializing...
+[4_5_2017_17:26:28] {INFO} MAIN - intializing...
+[4_5_2017_17:26:32] {INFO} REPITEME:  - handling message
+[4_5_2017_17:26:32] {INFO} REPITEME:  - SendMessage{chatId='309095276', text='you said: kjoj', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_17:27:20] {INFO} MAIN - intializing...
+[4_5_2017_17:27:24] {INFO} REPITEME:  - handling message
+[4_5_2017_17:27:24] {INFO} REPITEME:  - SendMessage{chatId='309095276', text='jefnjwenfwjefn: lo', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_17:28:6] {INFO} MAIN - intializing...
+[4_5_2017_17:28:10] {INFO} botLIS:  - handling message
+[4_5_2017_17:28:10] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Good to hear from you Alberto Ortiz say anything you want and I will Welcome to the LIA-BOT, to start we need where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_19:32:26] {INFO} MAIN - intializing...
+[4_5_2017_19:32:40] {INFO} botLIS:  - handling message
+[4_5_2017_19:32:40] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_19:33:58] {INFO} botLIS:  - handling message
+[4_5_2017_19:33:58] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_19:58:1] {INFO} MAIN - intializing...
+[4_5_2017_19:58:5] {INFO} botLIS:  - handling message
+[4_5_2017_19:58:5] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_19:58:7] {INFO} botLIS:  - handling message
+[4_5_2017_19:58:7] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_20:1:50] {INFO} botLIS:  - handling message
+[4_5_2017_20:1:50] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_20:2:7] {INFO} MAIN - intializing...
+[4_5_2017_20:2:23] {INFO} botLIS:  - handling message
+[4_5_2017_20:2:24] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_20:2:49] {INFO} botLIS:  - handling message
+[4_5_2017_20:2:49] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_20:3:23] {INFO} botLIS:  - handling message
+[4_5_2017_20:3:23] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_20:44:40] {INFO} MAIN - intializing...
+[4_5_2017_20:44:51] {INFO} botLIS:  - handling message
+[4_5_2017_20:44:52] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_20:45:13] {INFO} botLIS:  - handling message
+[4_5_2017_20:45:13] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_20:45:29] {INFO} botLIS:  - handling message
+[4_5_2017_20:45:29] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:19:26] {INFO} MAIN - intializing...
+[4_5_2017_21:19:31] {INFO} botLIS:  - handling message
+[4_5_2017_21:19:31] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:73)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_21:20:6] {INFO} MAIN - intializing...
+[4_5_2017_21:20:10] {INFO} botLIS:  - handling message
+[4_5_2017_21:20:10] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:73)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_21:21:17] {INFO} MAIN - intializing...
+[4_5_2017_21:21:26] {INFO} botLIS:  - handling message
+[4_5_2017_21:21:26] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:21:31] {INFO} botLIS:  - handling message
+[4_5_2017_21:21:31] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:21:37] {INFO} botLIS:  - handling message
+[4_5_2017_21:21:37] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:22:31] {INFO} MAIN - intializing...
+[4_5_2017_21:22:39] {INFO} botLIS:  - handling message
+[4_5_2017_21:22:39] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:22:45] {INFO} botLIS:  - handling message
+[4_5_2017_21:22:45] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:23:51] {INFO} MAIN - intializing...
+[4_5_2017_21:24:53] {INFO} botLIS:  - handling message
+[4_5_2017_21:24:53] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:24:57] {INFO} botLIS:  - handling message
+[4_5_2017_21:24:57] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:25:55] {INFO} MAIN - intializing...
+[4_5_2017_21:26:1] {INFO} botLIS:  - handling message
+[4_5_2017_21:26:1] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:26:4] {INFO} botLIS:  - handling message
+[4_5_2017_21:26:4] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:27:22] {INFO} MAIN - intializing...
+[4_5_2017_21:27:32] {INFO} botLIS:  - handling message
+[4_5_2017_21:27:32] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:27:36] {INFO} botLIS:  - handling message
+[4_5_2017_21:27:36] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:29:58] {INFO} MAIN - intializing...
+[4_5_2017_21:30:4] {INFO} botLIS:  - handling message
+[4_5_2017_21:30:4] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:30:7] {INFO} botLIS:  - handling message
+[4_5_2017_21:30:8] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:30:12] {INFO} botLIS:  - handling message
+[4_5_2017_21:30:12] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:30:12] {INFO} botLIS:  - handling message
+[4_5_2017_21:30:12] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:39:55] {INFO} MAIN - intializing...
+[4_5_2017_21:40:3] {INFO} botLIS:  - handling message
+[4_5_2017_21:40:3] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:40:55] {INFO} MAIN - intializing...
+[4_5_2017_21:40:59] {INFO} botLIS:  - handling message
+[4_5_2017_21:41:0] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:41:12] {INFO} botLIS:  - handling message
+[4_5_2017_21:41:12] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:115)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_21:41:34] {INFO} MAIN - intializing...
+[4_5_2017_21:41:40] {INFO} botLIS:  - handling message
+[4_5_2017_21:41:40] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:43:42] {INFO} botLIS:  - handling message
+[4_5_2017_21:43:42] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:115)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_21:44:9] {INFO} botLIS:  - handling message
+[4_5_2017_21:44:9] {INFO} botLIS:  - SendMessage{chatId='309095276', text='ENVIAMOS LAS TRES LOCALIZACIONES', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_21:44:31] {INFO} MAIN - intializing...
+[4_5_2017_21:44:35] {INFO} botLIS:  - handling message
+[4_5_2017_21:44:36] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:44:40] {INFO} botLIS:  - handling message
+[4_5_2017_21:44:40] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:113)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_21:45:15] {INFO} MAIN - intializing...
+[4_5_2017_21:45:20] {INFO} botLIS:  - handling message
+[4_5_2017_21:45:21] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:45:28] {INFO} botLIS:  - handling message
+[4_5_2017_21:45:28] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:113)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_21:46:20] {INFO} MAIN - intializing...
+[4_5_2017_21:46:23] {INFO} botLIS:  - handling message
+[4_5_2017_21:46:24] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:46:31] {INFO} botLIS:  - handling message
+[4_5_2017_21:46:31] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:114)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_21:47:39] {INFO} MAIN - intializing...
+[4_5_2017_21:47:46] {INFO} botLIS:  - handling message
+[4_5_2017_21:47:46] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:47:49] {INFO} botLIS:  - handling message
+[4_5_2017_21:48:43] {INFO} MAIN - intializing...
+[4_5_2017_21:48:48] {INFO} botLIS:  - handling message
+[4_5_2017_21:48:48] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:48:52] {INFO} botLIS:  - handling message
+[4_5_2017_21:49:51] {INFO} MAIN - intializing...
+[4_5_2017_21:49:59] {INFO} botLIS:  - handling message
+[4_5_2017_21:49:59] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:50:2] {INFO} botLIS:  - handling message
+[4_5_2017_21:50:2] {INFO} botLIS:  - SendMessage{chatId='309095276', text='GOOD BYE!!! WE HOPE SEE YOU SOON', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_21:51:25] {INFO} MAIN - intializing...
+[4_5_2017_21:51:28] {INFO} botLIS:  - handling message
+[4_5_2017_21:51:28] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:51:28] {INFO} botLIS:  - handling message
+[4_5_2017_21:52:17] {INFO} MAIN - intializing...
+[4_5_2017_21:52:37] {INFO} botLIS:  - handling message
+[4_5_2017_21:52:38] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:52:43] {INFO} botLIS:  - handling message
+[4_5_2017_21:52:43] {INFO} botLIS:  - SendMessage{chatId='309095276', text='GOOD BYE!!! WE HOPE SEE YOU SOON', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_21:53:0] {INFO} botLIS:  - handling message
+[4_5_2017_21:53:0] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:53:16] {INFO} botLIS:  - handling message
+[4_5_2017_21:58:47] {INFO} MAIN - intializing...
+[4_5_2017_21:58:54] {INFO} botLIS:  - handling message
+[4_5_2017_21:58:54] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_21:58:58] {INFO} botLIS:  - handling message
+[4_5_2017_21:58:58] {INFO} botLIS:  - SendMessage{chatId='309095276', text='I DO NOT UNDERSTAND!!!', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_22:0:40] {INFO} botLIS:  - handling message
+[4_5_2017_22:0:41] {INFO} botLIS:  - SendMessage{chatId='309095276', text='GOOD BYE!!! WE HOPE SEE YOU SOON', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_22:0:47] {INFO} botLIS:  - handling message
+[4_5_2017_22:0:47] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_22:1:4] {INFO} botLIS:  - handling message
+[4_5_2017_22:1:4] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:116)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_22:2:5] {INFO} MAIN - intializing...
+[4_5_2017_22:2:11] {INFO} botLIS:  - handling message
+[4_5_2017_22:2:11] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_22:2:18] {INFO} botLIS:  - handling message
+[4_5_2017_22:2:18] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:116)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[4_5_2017_22:3:14] {INFO} MAIN - intializing...
+[4_5_2017_22:3:18] {INFO} botLIS:  - handling message
+[4_5_2017_22:3:18] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_22:3:26] {INFO} botLIS:  - handling message
+[4_5_2017_22:3:26] {INFO} botLIS:  - SendMessage{chatId='309095276', text='ENVIAMOS LAS TRES OPCIONES', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_22:15:7] {INFO} MAIN - intializing...
+[4_5_2017_22:15:12] {INFO} botLIS:  - handling message
+[4_5_2017_22:15:12] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_22:15:19] {INFO} botLIS:  - handling message
+[4_5_2017_22:17:50] {INFO} MAIN - intializing...
+[4_5_2017_22:17:56] {INFO} botLIS:  - handling message
+[4_5_2017_22:17:57] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_22:18:10] {INFO} botLIS:  - handling message
+[4_5_2017_22:18:11] {INFO} botLIS:  - SendMessage{chatId='309095276', text='I DO NOT UNDERSTAND!!!', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_22:21:54] {INFO} MAIN - intializing...
+[4_5_2017_22:22:1] {INFO} botLIS:  - handling message
+[4_5_2017_22:22:1] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[4_5_2017_22:22:9] {INFO} botLIS:  - handling message
+[4_5_2017_22:22:9] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Choose one place of the following list', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[4_5_2017_22:22:20] {INFO} botLIS:  - handling message
+[4_5_2017_22:22:20] {INFO} botLIS:  - SendMessage{chatId='309095276', text='I DO NOT UNDERSTAND!!!', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[5_5_2017_0:26:18] {INFO} MAIN - intializing...
+[5_5_2017_0:26:22] {INFO} botLIS:  - handling message
+[5_5_2017_0:26:23] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:26:36] {INFO} botLIS:  - handling message
+[5_5_2017_0:26:41] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Choose one place of the following list', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[5_5_2017_0:28:52] {INFO} MAIN - intializing...
+[5_5_2017_0:28:58] {INFO} botLIS:  - handling message
+[5_5_2017_0:28:58] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:29:7] {INFO} botLIS:  - handling message
+[5_5_2017_0:29:11] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Choose one place of the following list', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[5_5_2017_0:40:52] {INFO} MAIN - intializing...
+[5_5_2017_0:41:4] {INFO} botLIS:  - handling message
+[5_5_2017_0:41:4] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:41:12] {INFO} botLIS:  - handling message
+[5_5_2017_0:41:16] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.messageListPlaces(botHandler.java:245)
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:124)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[5_5_2017_0:43:7] {INFO} MAIN - intializing...
+[5_5_2017_0:43:20] {INFO} botLIS:  - handling message
+[5_5_2017_0:43:20] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:43:31] {INFO} botLIS:  - handling message
+[5_5_2017_0:43:31] {INFO} botLIS:  - SendMessage{chatId='309095276', text='I DO NOT UNDERSTAND!!!', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[5_5_2017_0:43:40] {INFO} MAIN - intializing...
+[5_5_2017_0:43:45] {INFO} botLIS:  - handling message
+[5_5_2017_0:43:45] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:43:53] {INFO} botLIS:  - handling message
+[5_5_2017_0:43:56] {SEVERE} botLIS:  - java.lang.NullPointerException
+	at com.telegram.updateshandlers.botHandler.messageListPlaces(botHandler.java:245)
+	at com.telegram.updateshandlers.botHandler.onUpdateReceived(botHandler.java:124)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:241)
+[5_5_2017_0:45:19] {INFO} MAIN - intializing...
+[5_5_2017_0:45:23] {INFO} botLIS:  - handling message
+[5_5_2017_0:45:24] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:45:34] {INFO} botLIS:  - handling message
+[5_5_2017_0:45:35] {INFO} botLIS:  - SendMessage{chatId='309095276', text='I DO NOT UNDERSTAND!!!', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[5_5_2017_0:45:42] {INFO} botLIS:  - handling message
+[5_5_2017_0:45:42] {INFO} botLIS:  - SendMessage{chatId='309095276', text='I DO NOT UNDERSTAND!!!', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[5_5_2017_0:45:47] {INFO} MAIN - intializing...
+[5_5_2017_0:45:55] {INFO} botLIS:  - handling message
+[5_5_2017_0:45:55] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:46:9] {INFO} botLIS:  - handling message
+[5_5_2017_0:46:13] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Choose one place of the following list', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=InlineKeyboardMarkup{inline_keyboard=[[InlineKeyboardButton{text='Centro de Formación de Adultos', url='null', callbackData='Centro de Formación de Adultos', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Iglesia Cristiana Evangélica', url='null', callbackData='Iglesia Cristiana Evangélica', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Parroquia de Santa María del Parque', url='null', callbackData='Parroquia de Santa María del Parque', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Centro Cultural Hortaleza', url='null', callbackData='Centro Cultural Hortaleza', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Centro de Formación de Adultos', url='null', callbackData='Centro de Formación de Adultos', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Iglesia Cristiana Evangélica', url='null', callbackData='Iglesia Cristiana Evangélica', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Parroquia de Santa María del Parque', url='null', callbackData='Parroquia de Santa María del Parque', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Centro Cultural Hortaleza', url='null', callbackData='Centro Cultural Hortaleza', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Centro de Formación de Adultos', url='null', callbackData='Centro de Formación de Adultos', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Iglesia Cristiana Evangélica', url='null', callbackData='Iglesia Cristiana Evangélica', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Parroquia de Santa María del Parque', url='null', callbackData='Parroquia de Santa María del Parque', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Centro Cultural Hortaleza', url='null', callbackData='Centro Cultural Hortaleza', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Centro de Formación de Adultos', url='null', callbackData='Centro de Formación de Adultos', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Iglesia Cristiana Evangélica', url='null', callbackData='Iglesia Cristiana Evangélica', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Parroquia de Santa María del Parque', url='null', callbackData='Parroquia de Santa María del Parque', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Centro Cultural Hortaleza', url='null', callbackData='Centro Cultural Hortaleza', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Centro de Formación de Adultos', url='null', callbackData='Centro de Formación de Adultos', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Iglesia Cristiana Evangélica', url='null', callbackData='Iglesia Cristiana Evangélica', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Parroquia de Santa María del Parque', url='null', callbackData='Parroquia de Santa María del Parque', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Centro Cultural Hortaleza', url='null', callbackData='Centro Cultural Hortaleza', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}]]}}
+[5_5_2017_0:47:43] {INFO} botLIS:  - handling message
+[5_5_2017_0:47:44] {INFO} botLIS:  - SendMessage{chatId='309095276', text='I DO NOT UNDERSTAND!!!', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[5_5_2017_0:49:8] {INFO} MAIN - intializing...
+[5_5_2017_0:49:12] {INFO} botLIS:  - handling message
+[5_5_2017_0:49:12] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:49:19] {INFO} botLIS:  - handling message
+[5_5_2017_0:49:22] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Choose one place of the following list', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=InlineKeyboardMarkup{inline_keyboard=[[InlineKeyboardButton{text='Centro de Formación de Adultos', url='null', callbackData='Centro de Formación de Adultos', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Iglesia Cristiana Evangélica', url='null', callbackData='Iglesia Cristiana Evangélica', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Parroquia de Santa María del Parque', url='null', callbackData='Parroquia de Santa María del Parque', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Centro Cultural Hortaleza', url='null', callbackData='Centro Cultural Hortaleza', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}, InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}]]}}
+[5_5_2017_0:50:56] {INFO} MAIN - intializing...
+[5_5_2017_0:51:10] {INFO} botLIS:  - handling message
+[5_5_2017_0:51:10] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:51:18] {INFO} botLIS:  - handling message
+[5_5_2017_0:51:22] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Choose one place of the following list', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=InlineKeyboardMarkup{inline_keyboard=[[InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}]]}}
+[5_5_2017_0:51:43] {INFO} MAIN - intializing...
+[5_5_2017_0:51:50] {INFO} botLIS:  - handling message
+[5_5_2017_0:51:50] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:51:58] {INFO} botLIS:  - handling message
+[5_5_2017_0:51:59] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Choose one place of the following list', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=InlineKeyboardMarkup{inline_keyboard=[[InlineKeyboardButton{text='Centro de Formación de Adultos', url='null', callbackData='Centro de Formación de Adultos', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Iglesia Cristiana Evangélica', url='null', callbackData='Iglesia Cristiana Evangélica', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Parroquia de Santa María del Parque', url='null', callbackData='Parroquia de Santa María del Parque', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Centro Cultural Hortaleza', url='null', callbackData='Centro Cultural Hortaleza', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}]]}}
+[5_5_2017_0:53:1] {INFO} botLIS:  - handling message
+[5_5_2017_0:53:2] {INFO} botLIS:  - SendMessage{chatId='309095276', text='I DO NOT UNDERSTAND!!!', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+[5_5_2017_0:54:6] {INFO} MAIN - intializing...
+[5_5_2017_0:54:12] {INFO} botLIS:  - handling message
+[5_5_2017_0:54:12] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:57:16] {INFO} MAIN - intializing...
+[5_5_2017_0:57:32] {INFO} botLIS:  - handling message
+[5_5_2017_0:57:33] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Welcome Alberto Ortiz   to the LIA-BOT, to start we need to know where are you located, so press the bottom to allow us to know your location', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup{keyboard=[[KeyboardButton{text=PULSA PARA ENVIAR LA LOCALIZACION, requestContact=null, requestLocation=true}], [KeyboardButton{text=PULSA PARA SALIR, requestContact=null, requestLocation=null}]], resizeKeyboard=null, oneTimeKeyboad=null, selective=null}}
+[5_5_2017_0:57:40] {INFO} botLIS:  - handling message
+[5_5_2017_0:57:43] {INFO} botLIS:  - SendMessage{chatId='309095276', text='Choose one place of the following list', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=InlineKeyboardMarkup{inline_keyboard=[[InlineKeyboardButton{text='Centro de Formación de Adultos', url='null', callbackData='Centro de Formación de Adultos', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Iglesia Cristiana Evangélica', url='null', callbackData='Iglesia Cristiana Evangélica', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Parroquia de Santa María del Parque', url='null', callbackData='Parroquia de Santa María del Parque', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Centro Cultural Hortaleza', url='null', callbackData='Centro Cultural Hortaleza', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}], [InlineKeyboardButton{text='Colegio Virgen Milagrosa', url='null', callbackData='Colegio Virgen Milagrosa', callbackGame=null, switchInlineQuery='null', switchInlineQueryCurrentChat='null'}]]}}

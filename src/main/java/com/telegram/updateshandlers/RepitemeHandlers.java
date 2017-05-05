@@ -28,7 +28,7 @@ public class RepitemeHandlers extends TelegramLongPollingBot {
 
 	@Override
     public String getBotToken() {
-        return BotConfig.REPITEME_TOKEN;
+        return BotConfig.botLIS_TOKEN;
     }
 
     public void onUpdateReceived(Update update) {
@@ -46,6 +46,7 @@ public class RepitemeHandlers extends TelegramLongPollingBot {
             } else if (update.hasMessage()) {
                 BotLogger.info(LOGTAG, "handling message");
                 Message message = update.getMessage();
+                System.out.println(message.toString());
                 if (message.hasText()) {
                     // create a object that contains the information to send back the message
                 	// The bot will always repeat what the user has said

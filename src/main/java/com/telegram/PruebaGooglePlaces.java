@@ -28,7 +28,7 @@ public class PruebaGooglePlaces {
     public static void main(String[] args) throws Exception
     {
 
-        String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&types=food&name=cruise&key=" + BotConfig.GOOGLE_API_KEY;
+        String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.766667,-2.466667&radius=50&types=place_of_worship|church|city_hall|embassy|mosque|museum|university&key=" + BotConfig.GOOGLE_API_KEY;
     	HttpURLConnection con = (HttpURLConnection) new URL(url).openConnection();
 		con.setRequestMethod("GET");
 		BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
@@ -46,6 +46,8 @@ public class PruebaGooglePlaces {
 		for(GooglePlaces.Result res : json.getResults()){
 			System.out.println(res.toString() + "\n");
 		}
+		
+		System.out.println("---  FIN DEL PROGRAMA ------");
     }
     
 }
